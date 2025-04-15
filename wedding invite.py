@@ -9,18 +9,18 @@ st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
-        html, body {
+        html, body, .stApp {
             height: 100%;
             margin: 0;
+            font-family: 'Helvetica', sans-serif;
         }
 
-        body {
+        .stApp {
             background-image: url("https://files.catbox.moe/mkqxur.jpg");
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
-            font-family: 'Helvetica', sans-serif;
         }
 
         .title-block {
@@ -45,8 +45,8 @@ st.markdown("""
             margin-right: 15%;
         }
 
-        .content-block {{
-            background-color: rgba(255, 255, 255, 0);  /* Transparent */
+        .content-block {
+            background-color: rgba(255, 255, 255, 0);
             padding: 3rem;
             max-width: 700px;
             margin: auto;
