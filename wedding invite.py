@@ -45,13 +45,16 @@ st.markdown("""
             margin-right: 15%;
         }
 
-        .content-block {
-            background-color: rgba(255, 255, 255, 0.9);
+        .content-block {{
+            background-color: rgba(255, 255, 255, 0);  /* Transparent */
             padding: 3rem;
-            border-radius: 12px;
             max-width: 700px;
             margin: auto;
-            margin-top: 50px;
+            margin-top: -100px;
+            color: white;
+            font-size: 1.2rem;
+            text-align: center;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
         }
 
         .rsvp-button a {
