@@ -64,9 +64,9 @@ st.markdown("""
 
 Join us to celebrate our love and the beginning of a lifetime together.  
 
-**📅 Date**: [Insert Wedding Date]  
-**📍 Location**: [Insert Venue Address]  
-**⏰ Time**: [Insert Start Time]  
+**📅 Date**: 22nd November  
+**📍 Location**: St John's Anglican Church, Fremantle 
+**⏰ Time**: 10am 
 
 We can't wait to share this beautiful moment with you.
 """)
