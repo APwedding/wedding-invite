@@ -16,7 +16,7 @@ st.markdown("""
         }
 
         .stApp {
-            background-image: 'A+P.jpg';
+            background-image: url("https://files.catbox.moe/3z4zgi.jpg");
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
