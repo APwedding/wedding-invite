@@ -8,7 +8,7 @@ st.set_page_config(page_title="Wedding of Anton and Peniel", layout="wide")
 st.markdown("""
     <style>
         body {
-            background-image: url('A + P.jpg');
+            background-image: url('A+P.jpg');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
@@ -65,7 +65,8 @@ st.markdown("""
 Join us to celebrate our love and the beginning of a lifetime together.  
 
 **📅 Date**: 22nd November  
-**📍 Location**: St John's Anglican Church, Fremantle 
+**📍 Location**: St John's Anglican Church, Fremantle
+
 **⏰ Time**: 10am 
 
 We can't wait to share this beautiful moment with you.
